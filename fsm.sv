@@ -87,7 +87,7 @@ endmodule // FSM_pv
 
 
 
-// Adding test bench below. Copy and paste elsewhere...
+// Adding test bench below. Copy and paste elsewhere... (structured for Quartus & ModelSim)
 
 `timescale 1ns/1ps
 
